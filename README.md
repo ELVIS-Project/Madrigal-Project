@@ -1,5 +1,8 @@
 # Newberry-part-books
-Symbolic music files for Verdelot madrigals as found in the Newberry part books.
+Symbolic music files for Verdelot madrigals as found in the Newberry partbooks.
+
+# Original material
+The transcriptions of these madrigals are based upon the Newberry partbooks from the Newberry library (Cantus, Tenor, Quintus, Bassus: VAULT Case MS minus VM 1578 .M91). We also relied upon H. Colin Slim's *A Gift of Madrigals and Motets* vol.2 (Chicago: University of Chicago Press, 1972) as well as upon Sutton Coldfied's *Ten Altus Parts at Oscott College* ([place of publication non identified]: Sutton Coldfield Oscott College, 1978), transcribed and edited by H. Colin Slim, for the missing Altus part.
 
 # Licensing
 
