@@ -336,9 +336,9 @@
             <sigD>1</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>3</tempo>
+            <tempo>5.333333333333333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 80</b></text>
             </Tempo>
           <Chord>
             <durationType>whole</durationType>
