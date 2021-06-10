@@ -118,7 +118,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -182,7 +182,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -248,7 +248,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -314,7 +314,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -325,7 +325,15 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>Newberry Partbooks</text>
+          <text>Title</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Composer</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Poet</text>
           </Text>
         </VBox>
       <Measure>
