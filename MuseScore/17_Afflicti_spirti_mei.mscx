@@ -46,13 +46,13 @@
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -121,7 +121,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -187,7 +187,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -253,7 +253,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -319,7 +319,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -5490,10 +5490,6 @@
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <Clef>
-            <concertClefType>G8vb</concertClefType>
-            <transposingClefType>G8vb</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -6391,7 +6387,8 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>breve</durationType>
+            <durationType>measure</durationType>
+            <duration>2/1</duration>
             </Rest>
           </voice>
         </Measure>
