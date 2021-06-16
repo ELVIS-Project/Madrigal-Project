@@ -32,13 +32,13 @@
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
