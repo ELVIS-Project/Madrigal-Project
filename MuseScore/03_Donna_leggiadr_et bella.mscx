@@ -27,17 +27,17 @@
     <metaTag name="source">A Gift of Madrigals and Motets (H. Colin Slim)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Donna leggiadr' et bella</metaTag>
+    <metaTag name="workTitle">03. Donna leggiadr' et bella</metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -313,9 +313,10 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>3. Donna leggiadr' et bella</text>
+          <text>03. Donna leggiadr' et bella</text>
           </Text>
         <Text>
           <style>Composer</style>

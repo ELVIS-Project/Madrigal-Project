@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>system</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -40,20 +39,20 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet">Anonymous</metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">A Gift of Madrigals and Motets (H. Colin Slim)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">I vostri acuti dardi</metaTag>
+    <metaTag name="workTitle">05. I vostri acuti dardi</metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -331,7 +330,8 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>5. I vostri acuti dardi</text>
+          <offset x="-0.590698" y="0.089535"/>
+          <text><font size="22"/>05. I vostri acuti dardi</text>
           </Text>
         <Text>
           <style>Composer</style>

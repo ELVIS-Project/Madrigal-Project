@@ -39,20 +39,20 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet">Anonymous</metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">A Gift of Madrigals and Motets (H. Colin Slim)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Ognun si duol' d'amore</metaTag>
+    <metaTag name="workTitle">15. Ognun si duol' d'amore</metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -328,7 +328,8 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>15. Ognun si duol' d'amore</text>
+          <offset x="0" y="0.253489"/>
+          <text><font size="22"/>15. Ognun si duol' d'amore</text>
           </Text>
         <Text>
           <style>Composer</style>
