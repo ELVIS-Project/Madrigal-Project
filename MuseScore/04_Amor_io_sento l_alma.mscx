@@ -315,7 +315,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Amor, io sento l'alma</text>
+          <text>4. Amor, io sento l'alma</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -1658,6 +1658,33 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
@@ -2910,10 +2937,37 @@
             <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -4359,10 +4413,37 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -5559,10 +5640,37 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>

@@ -46,13 +46,13 @@
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -330,7 +330,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>Donna che sete</text>
+          <text>18. Donna che sete</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -1776,8 +1776,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>
@@ -2086,8 +2088,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>

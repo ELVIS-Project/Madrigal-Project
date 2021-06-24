@@ -46,13 +46,13 @@
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voix</family>
+        <family id="voices">Voices</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -330,7 +330,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>La bella donna</text>
+          <text>16. La bella donna</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -487,8 +487,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>
@@ -1587,8 +1589,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>
@@ -2282,8 +2286,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2690,8 +2694,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>
@@ -3725,8 +3731,10 @@
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>

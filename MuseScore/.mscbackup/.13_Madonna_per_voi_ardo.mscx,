@@ -46,13 +46,13 @@
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="soprano">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
-        <family id="voices">Voices</family>
+        <family id="voices">Voix</family>
         </instrument>
       <soloists/>
       <section id="voices" brackets="true" showSystemMarkings="false" barLineSpan="false" thinBrackets="true">
@@ -330,7 +330,7 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>13. Madonna, per voi ardo</text>
+          <text>Madonna, per voi ardo</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -1795,37 +1795,10 @@
             <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -3104,37 +3077,10 @@
             <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -4398,37 +4344,10 @@
             <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -5557,37 +5476,10 @@
             <durationType>breve</durationType>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>breve</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
