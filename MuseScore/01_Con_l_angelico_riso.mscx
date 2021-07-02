@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>system</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -28,7 +27,7 @@
     <metaTag name="source">A Gift of Madrigals and Motets (H. Colin Slim)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Con l'angelico riso</metaTag>
+    <metaTag name="workTitle">01. Con l'angelico riso</metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
@@ -107,7 +106,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -173,7 +172,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -239,7 +238,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -305,7 +304,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -316,7 +315,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Con l'angelico riso</text>
+          <text>01. Con l'angelico riso</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -337,9 +336,9 @@
             <sigD>1</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>3</tempo>
+            <tempo>5.333333333333333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 80</b></text>
             </Tempo>
           <Chord>
             <durationType>whole</durationType>
@@ -1762,6 +1761,33 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
@@ -2914,21 +2940,17 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
             <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
+            <durationType>half</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2944,16 +2966,13 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <durationType>breve</durationType>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2962,11 +2981,8 @@
             <durationType>breve</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3074,10 +3090,37 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -4278,11 +4321,8 @@
             <durationType>whole</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4370,10 +4410,37 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
@@ -5657,10 +5724,37 @@
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
                     <fractions>1/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>

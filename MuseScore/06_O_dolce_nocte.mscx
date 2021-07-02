@@ -25,10 +25,10 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet">Machiavelli</metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">A Gift of Madrigals and Motets (H. Colin Slim)</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">O dolce nocte</metaTag>
+    <metaTag name="workTitle">06. O dolce nocte</metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
       <instrument id="bass">
@@ -107,7 +107,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -171,7 +171,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -237,7 +237,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -303,7 +303,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -314,7 +314,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>O dolce nocte</text>
+          <text>06. O dolce nocte</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -335,9 +335,9 @@
             <sigD>1</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>3</tempo>
+            <tempo>5.333333333333333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 80</b></text>
             </Tempo>
           <Chord>
             <durationType>breve</durationType>
@@ -356,18 +356,15 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -384,11 +381,8 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -397,8 +391,8 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -408,11 +402,8 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2158,8 +2149,8 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2294,11 +2285,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>

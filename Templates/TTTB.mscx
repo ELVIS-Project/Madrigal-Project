@@ -7,11 +7,11 @@
     <currentLayer>0</currentLayer>
     <Synthesizer>
       <master>
-        <val id="0">Zita1</val>
+        <val id="0">NoEffect</val>
         <val id="1">NoEffect</val>
         <val id="2">0.1</val>
         <val id="3">440</val>
-        <val id="4">1</val>
+        <val id="4">0</val>
         <val id="5">1</val>
         </master>
       <Fluid>
@@ -19,18 +19,6 @@
         </Fluid>
       <Zerberus>
         </Zerberus>
-      <Zita1>
-        <val id="0">0.25</val>
-        <val id="1">0.462756</val>
-        <val id="2">0.161809</val>
-        <val id="3">0.333333</val>
-        <val id="4">0.25</val>
-        <val id="5">0.335245</val>
-        <val id="6">0.5</val>
-        <val id="7">0.664755</val>
-        <val id="8">0.5</val>
-        <val id="9">0.33</val>
-        </Zita1>
       </Synthesizer>
     <Division>480</Division>
     <Style>
@@ -132,7 +120,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -198,7 +186,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -264,7 +252,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -330,7 +318,7 @@
           </Articulation>
         <Channel>
           <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="0"/>
           <program value="52"/>
           <synti>Fluid</synti>
           </Channel>
@@ -341,7 +329,15 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>Newberry Partbooks</text>
+          <text>Title</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Composer</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Poet</text>
           </Text>
         </VBox>
       <Measure>
