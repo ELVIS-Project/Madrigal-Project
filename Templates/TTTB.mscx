@@ -329,7 +329,8 @@
         <height>10</height>
         <Text>
           <style>Subtitle</style>
-          <text>Title</text>
+          <offset x="0" y="0.253489"/>
+          <text><font size="22"/>Title</text>
           </Text>
         <Text>
           <style>Composer</style>
