@@ -3,7 +3,7 @@
 <score-partwise version="3.1">
   <work>
     <work-title>12. Con lacrim' et sospir'</work-title>
-    </work>
+    </work><beat-unit>whole</beat-unit>
   <identification>
     <creator type="arranger">Sylvain Margot</creator>
     <creator type="composer">Verdelot?</creator>
@@ -145,7 +145,7 @@
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-36.04" relative-y="20.00">
-            <beat-unit></beat-unit>
+            <beat-unit>whole</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>

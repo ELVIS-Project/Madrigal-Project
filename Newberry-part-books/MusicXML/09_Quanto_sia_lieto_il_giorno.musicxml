@@ -5,7 +5,7 @@
     <work-title>09. Quanto sia lieto il giorno</work-title>
     </work>
   <identification>
-    <creator type="arranger">Sylvain Margot</creator>
+    <creator type="arranger">Sylvain<beat-unit>whole</beat-unit> Margot</creator>
     <creator type="composer">Verdelot</creator>
     <creator type="poet">Machiavelli</creator>
     <encoding>
@@ -145,7 +145,7 @@
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-36.04" relative-y="20.00">
-            <beat-unit></beat-unit>
+            <beat-unit>whole</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>

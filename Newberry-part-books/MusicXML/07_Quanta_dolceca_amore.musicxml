@@ -10,7 +10,7 @@
     <creator type="poet">Anonymous</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-06-24</encoding-date>
+      <encoding-date>2021-06-24</encoding-date><beat-unit>whole</beat-unit>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -145,7 +145,7 @@
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-36.04" relative-y="20.00">
-            <beat-unit></beat-unit>
+            <beat-unit>whole</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>

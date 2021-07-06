@@ -4,7 +4,7 @@
   <work>
     <work-title>11. Sì suave è l'inghanno</work-title>
     </work>
-  <identification>
+  <identification><beat-unit>whole</beat-unit>
     <creator type="arranger">Sylvain Margot</creator>
     <creator type="composer">Anonymous (Verdelot?)</creator>
     <creator type="poet">Machiavelli</creator>
@@ -145,7 +145,7 @@
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-36.24" relative-y="20.00">
-            <beat-unit></beat-unit>
+            <beat-unit>whole</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>

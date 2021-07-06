@@ -145,7 +145,7 @@
       <direction placement="above">
         <direction-type>
           <metronome parentheses="no" default-x="-48.50" relative-y="20.00">
-            <beat-unit></beat-unit>
+            <beat-unit>whole</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>
