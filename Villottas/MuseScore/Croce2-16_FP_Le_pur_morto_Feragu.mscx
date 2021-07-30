@@ -830,6 +830,13 @@
           <Chord>
             <durationType>breve</durationType>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -2397,14 +2404,14 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>whole</durationType>
+            <durationType>half</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -2925,14 +2932,14 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>whole</durationType>
+            <durationType>half</durationType>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -3150,8 +3157,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>

@@ -995,9 +995,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <StemDirection>up</StemDirection>
@@ -1587,9 +1584,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <StemDirection>up</StemDirection>
@@ -2201,9 +2195,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <StemDirection>up</StemDirection>
@@ -2777,9 +2768,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Chord>
             <durationType>breve</durationType>
             <StemDirection>up</StemDirection>
