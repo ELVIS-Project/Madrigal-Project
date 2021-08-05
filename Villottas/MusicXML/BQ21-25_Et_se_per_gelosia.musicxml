@@ -2,11 +2,11 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>E se per gelosia</work-title>
+    <work-title>E se p<beat-unit>whole</beat-unit>er gelosia</work-title>
     </work>
   <identification>
     <creator type="arranger">Mayu Egan</creator>
-    <creator type="composer">A<beat-unit>whole</beat-unit>nonymous</creator>
+    <creator type="composer">Anonymous</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
       <encoding-date>2021-08-05</encoding-date>
@@ -16,6 +16,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>BQ21-25</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

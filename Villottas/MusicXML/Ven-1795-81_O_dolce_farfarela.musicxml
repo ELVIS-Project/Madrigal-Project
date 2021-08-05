@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.1">
+<score-partwise versio<beat-unit>whole</beat-unit>n="3.1">
   <work>
     <work-title>O dolce farfarela</work-title>
     </work>
   <identification>
-    <creator type="arra<beat-unit>whole</beat-unit>nger">Mayu Egan</creator>
+    <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Anonymous</creator>
     <creator type="poet">Adespoto</creator>
     <encoding>
@@ -17,6 +17,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Ven 1795</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

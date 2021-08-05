@@ -24,7 +24,6 @@
     <Style>
       <enableVerticalSpread>1</enableVerticalSpread>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <createMultiMeasureRests>1</createMultiMeasureRests>
       <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -330,12 +329,13 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Composer</style>
-          <text>Francesco Patavino</text>
+          <style>Subtitle</style>
+          <offset x="-0.295349" y="0.548837"/>
+          <text><font size="22"/>Le pur morto Feragu</text>
           </Text>
         <Text>
-          <style>Title</style>
-          <text>Le pur morto Feragu</text>
+          <style>Composer</style>
+          <text>Francesco Patavino</text>
           </Text>
         </VBox>
       <Measure>
@@ -841,9 +841,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -1350,9 +1347,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1466,9 +1460,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -2007,9 +1998,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -2587,9 +2575,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2692,9 +2677,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -3206,9 +3188,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -3815,9 +3794,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -3913,9 +3889,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -4439,9 +4412,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -4974,9 +4944,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -5082,9 +5049,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>

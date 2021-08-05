@@ -51,7 +51,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">M&amp;C 1520</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Venite donne belle</metaTag>
@@ -359,6 +359,11 @@
             <sigN>2</sigN>
             <sigD>1</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>5.333333333333333</tempo>
+            <followText>1</followText>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 80</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/1</duration>

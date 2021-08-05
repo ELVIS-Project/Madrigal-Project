@@ -2,9 +2,10 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Dal lecto me levava</work-title>
+    <work-number>Petrucci Frot1</work-number>
+    <work-title>Dal le<beat-unit>whole</beat-unit>cto me levava</work-title>
     </work>
-  <identification><beat-unit>whole</beat-unit>
+  <identification>
     <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Pesenti</creator>
     <encoding>

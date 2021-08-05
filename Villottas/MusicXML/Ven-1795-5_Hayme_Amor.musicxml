@@ -2,9 +2,9 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Haymè, Amor! - Haymè, Fortuna!</work-title>
+    <work-titl<beat-unit>whole</beat-unit>e>Haymè, Amor! - Haymè, Fortuna!</work-title>
     </work>
-  <identifica<beat-unit>whole</beat-unit>tion>
+  <identification>
     <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Ruffino</creator>
     <encoding>
@@ -16,6 +16,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Ven 1795</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

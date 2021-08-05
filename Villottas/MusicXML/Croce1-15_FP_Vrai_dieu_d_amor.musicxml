@@ -2,10 +2,10 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Vrai dieu d'amor</work-title>
+    <work-title>Vra<beat-unit>whole</beat-unit>i dieu d'amor</work-title>
     </work>
   <identification>
-    <creator type="arranger"<beat-unit>whole</beat-unit>>Mayu Egan</creator>
+    <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Francesco Patavino</creator>
     <creator type="poet">Anonymous</creator>
     <encoding>
@@ -17,6 +17,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Croce1</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

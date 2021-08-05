@@ -5,9 +5,9 @@
     <work-title>Le son tre fantinelle</work-title>
     </work>
   <identification>
-    <creator type="arranger">Mayu Egan</creator>
+    <creator type="arranger">May<beat-unit>whole</beat-unit>u Egan</creator>
     <creator type="composer">Marchetto Cara</creator>
-    <creator type="poet">Anony<beat-unit>whole</beat-unit>mous</creator>
+    <creator type="poet">Anonymous</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
       <encoding-date>2021-08-05</encoding-date>
@@ -17,6 +17,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Croce1</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

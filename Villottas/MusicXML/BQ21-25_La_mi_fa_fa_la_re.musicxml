@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.1">
+<score-partwise versio<beat-unit>whole</beat-unit>n="3.1">
   <work>
     <work-title>La mi fa falare</work-title>
     </work>
@@ -8,7 +8,7 @@
     <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Anonymous</creator>
     <encoding>
-      <software>MuseScore 3.6.2</softwar<beat-unit>whole</beat-unit>e>
+      <software>MuseScore 3.6.2</software>
       <encoding-date>2021-08-05</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
@@ -16,6 +16,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>BQ21-25</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

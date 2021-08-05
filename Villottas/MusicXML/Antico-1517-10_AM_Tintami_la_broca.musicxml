@@ -3,8 +3,8 @@
 <score-partwise version="3.1">
   <work>
     <work-title>Tintinami la broca</work-title>
-    </work>
-  <identification><beat-unit>whole</beat-unit>
+    </work><beat-unit>whole</beat-unit>
+  <identification>
     <creator type="arranger">Mayu Egan</creator>
     <creator type="composer">Alessandro Mantoano</creator>
     <encoding>
@@ -16,6 +16,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Antico 1517</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

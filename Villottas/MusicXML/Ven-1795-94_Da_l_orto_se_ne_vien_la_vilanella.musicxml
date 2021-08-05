@@ -4,9 +4,9 @@
   <work>
     <work-title>Da l'orto se ne vien la villanella</work-title>
     </work>
-  <identification>
+  <identification><beat-unit>whole</beat-unit>
     <creator type="arranger">Mayu Egan</creator>
-    <creator type="<beat-unit>whole</beat-unit>composer">Anonymous</creator>
+    <creator type="composer">Anonymous</creator>
     <creator type="poet">Adespoto</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
@@ -17,6 +17,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Ven 1795</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">

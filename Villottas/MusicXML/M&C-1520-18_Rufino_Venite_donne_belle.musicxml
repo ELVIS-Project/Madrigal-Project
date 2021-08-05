@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<beat-unit>whole</beat-unit><?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
@@ -16,6 +16,7 @@
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>M&amp;C 1520</source>
     </identification>
   <part-list>
     <part-group type="start" number="1">
@@ -95,6 +96,15 @@
           <line>2</line>
           </clef>
         </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>whole</beat-unit>
+            <per-minute>80</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="320"/>
+        </direction>
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
