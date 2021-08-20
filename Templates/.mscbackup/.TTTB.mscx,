@@ -45,7 +45,7 @@
     <metaTag name="workTitle"></metaTag>
     <Order id="choir" customized="1">
       <name>Chœur</name>
-      <instrument id="soprano">
+      <instrument id="bass">
         <family id="voices">Voix</family>
         </instrument>
       <instrument id="tenor">
@@ -64,18 +64,20 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <defaultClef>G8vb</defaultClef>
         <bracket type="0" span="4" col="0"/>
         </Staff>
       <trackName>Cantus</trackName>
-      <Instrument id="soprano">
+      <Instrument id="tenor">
         <longName>Cantus</longName>
         <shortName>C.</shortName>
-        <trackName>Soprano</trackName>
-        <minPitchP>60</minPitchP>
-        <maxPitchP>84</maxPitchP>
-        <minPitchA>60</minPitchA>
-        <maxPitchA>79</maxPitchA>
-        <instrumentId>voice.soprano</instrumentId>
+        <trackName>Ténor</trackName>
+        <minPitchP>48</minPitchP>
+        <maxPitchP>72</maxPitchP>
+        <minPitchA>48</minPitchA>
+        <maxPitchA>69</maxPitchA>
+        <instrumentId>voice.tenor</instrumentId>
+        <clef>G8vb</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -129,17 +131,19 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <defaultClef>G8vb</defaultClef>
         </Staff>
       <trackName>Altus</trackName>
-      <Instrument id="soprano">
+      <Instrument id="tenor">
         <longName>Altus</longName>
         <shortName>A.</shortName>
-        <trackName>Soprano</trackName>
-        <minPitchP>60</minPitchP>
-        <maxPitchP>84</maxPitchP>
-        <minPitchA>60</minPitchA>
-        <maxPitchA>79</maxPitchA>
-        <instrumentId>voice.soprano</instrumentId>
+        <trackName>Ténor</trackName>
+        <minPitchP>48</minPitchP>
+        <maxPitchP>72</maxPitchP>
+        <minPitchA>48</minPitchA>
+        <maxPitchA>69</maxPitchA>
+        <instrumentId>voice.tenor</instrumentId>
+        <clef>G8vb</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -259,19 +263,19 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <defaultClef>G8vb</defaultClef>
+        <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Bassus</trackName>
-      <Instrument id="tenor">
+      <Instrument id="bass">
         <longName>Bassus</longName>
         <shortName>B.</shortName>
-        <trackName>Ténor</trackName>
-        <minPitchP>48</minPitchP>
-        <maxPitchP>72</maxPitchP>
-        <minPitchA>48</minPitchA>
-        <maxPitchA>69</maxPitchA>
-        <instrumentId>voice.tenor</instrumentId>
-        <clef>G8vb</clef>
+        <trackName>Basse</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>62</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>60</maxPitchA>
+        <instrumentId>voice.bass</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -324,7 +328,7 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Title</style>
+          <style>Subtitle</style>
           <text>Title</text>
           </Text>
         <Text>

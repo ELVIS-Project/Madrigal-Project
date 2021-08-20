@@ -327,7 +327,7 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Subtitle</style>
+          <style>Title</style>
           <text>Title</text>
           </Text>
         <Text>
